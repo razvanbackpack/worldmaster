@@ -8,8 +8,6 @@ A desktop application for world-building and campaign management with a dark car
 - **Item Catalog**: Manage locations, characters, items, and lore with rich descriptions
 - **Search & Filter**: Find content quickly with search and sorting capabilities
 - **Rich Editor**: Add detailed descriptions, tags, and categorization
-- **Dark Theme**: Cartography-inspired dark interface optimized for long sessions
-- **Sidebar Navigation**: Collapsible sidebar for efficient workspace management
 
 ## Screenshots
 
