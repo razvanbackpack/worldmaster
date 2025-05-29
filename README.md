@@ -1,6 +1,6 @@
 # Worldmaster
 
-A desktop application for world-building and campaign management with a dark cartography-inspired interface.
+A desktop application for world-building and campaign management.
 
 ## Features
 
