@@ -16,13 +16,13 @@ A desktop application for world-building and campaign management with a dark car
 ### Welcome Screen
 ![Welcome Screen](readme_screenshots/welcome_screen.png)
 
-### Main Interface
+### Item adding and project details
 ![Interaction Windows](readme_screenshots/interaction_windows.png)
 
-### Map View with Tooltips
+### Map view with tooltips
 ![Map View Tooltip](readme_screenshots/map_view_tooltip.png)
 
-### Detailed Item View
+### Detailed item view
 ![Map View Sidebar Details](readme_screenshots/map_view_sidebar_details.png)
 
 ## Usage
