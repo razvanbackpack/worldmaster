@@ -45,5 +45,9 @@ Download the latest release from the [Releases](https://github.com/razvanbackpac
 
 ## License
 
-[Add your license here]
+This software is provided free of charge under the Worldmaster Freeware License.
+
+See the [LICENSE](LICENSE) file for full terms and conditions.
+
+© 2025 Worldmaster. All rights reserved.
 
