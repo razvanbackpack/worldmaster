@@ -35,7 +35,7 @@ A desktop application for world-building and campaign management with a dark car
 
 ## Download
 
-Download the latest release from the [Releases](https://github.com/razvanbackpack/worldmaster-releases/releases) page.
+Download the latest release from the [Releases](https://github.com/razvanbackpack/worldmaster/releases) page.
 
 ## System Requirements
 
